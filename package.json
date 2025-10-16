@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "homepage": "https://krishnatrea.github.io/quick-data-mapper",
+  "homepage": "https://krishnatrea.github.io/csv-json",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
