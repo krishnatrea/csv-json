@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quick-data-mapper/static/css/main.5091a00a.css",
+    "main.js": "/quick-data-mapper/static/js/main.74cf648c.js",
+    "index.html": "/quick-data-mapper/index.html",
+    "main.5091a00a.css.map": "/quick-data-mapper/static/css/main.5091a00a.css.map",
+    "main.74cf648c.js.map": "/quick-data-mapper/static/js/main.74cf648c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5091a00a.css",
+    "static/js/main.74cf648c.js"
+  ]
+}
